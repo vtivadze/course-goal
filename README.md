@@ -15,3 +15,5 @@
 ### Introduce CSS Modules
 
 ### Aadd class names dynamicly to CSS Modules
+
+### Media Queries in CSS Modules
