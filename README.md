@@ -1,3 +1,5 @@
 # Concepts Covered
 
-### Set conditional styles dyanamicly using inline styles
+### Set conditional styles dynamicly using inline styles
+
+### Aadd classes dynamicaly
